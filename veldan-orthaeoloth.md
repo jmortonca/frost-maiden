@@ -103,5 +103,10 @@ My first day of rest since arriving here. **Ilareth Dilynrae** and **Magus Zauvi
 
 The last days have been taxing to the extreme. I find myself at the limits of my physical capabilities. Everything aches more than I thought possible; I feel muscles I didn't know I had. More than that is the numbing of intellect. I find myself falling into an intellectual rut, having had no time to engage in anything other than brute physical mindlessness. We haven't even started dusting and catagorizing artifacts. It's just been moving of rubble and rocks, clearing and cleaning, acting as janitors for a long dead city.
 
-We are, at least, making progress. 
+We are, at least, making progress.
 
+These people -whoever they were- were surprisingly paranoid. At least it seems that the traps are getting easier to spot which has allowed us to accellerate our trek somewhat.
+
+The first long corridor from Prima Mortis finally came to a dead end - collapsed masonry making it impossible to continue. At least, that's what it appeared to me. The blocked passage is just on the other side of the room which is currently being investigated. Up to that point, the branch tunnels and rooms have been nigh fully explored. We are at least confident that they're not trapped. I don't know why they continue to investigate that final room. It seemed more or less empty. A maybe 20 foot circular dias in the center with nothing on it, at not much else. Oh the usual carvings and runes on the walls, but nothing else.
+
+I will rest my weary limbs now, then find something to amuse myself for the rest of the day
