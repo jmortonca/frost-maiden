@@ -109,4 +109,68 @@ These people -whoever they were- were surprisingly paranoid. At least it seems t
 
 The first long corridor from Prima Mortis finally came to a dead end - collapsed masonry making it impossible to continue. At least, that's what it appeared to me. The blocked passage is just on the other side of the room which is currently being investigated. Up to that point, the branch tunnels and rooms have been nigh fully explored. We are at least confident that they're not trapped. I don't know why they continue to investigate that final room. It seemed more or less empty. A maybe 20 foot circular dias in the center with nothing on it, at not much else. Oh the usual carvings and runes on the walls, but nothing else.
 
-I will rest my weary limbs now, then find something to amuse myself for the rest of the day
+I will rest my weary limbs now, then find something to amuse myself for the rest of the day.
+
+Addendum: *Eve*
+
+I spent my day wandering the already explored corridors and rooms. It turns out that I have perhaps a keener eye than those who explored these before me.
+
+I've found an artifact of sorts, clearly ancient. It's a small, intricately carved box. There are no jewels or gold adorning it, and it fits in the palm of my hand. The most interesting thing about it however is what must be something of a camoflage built in. This is the reason that I spotted it and none other. A pile of lesser rubble that had been left for later as it was surrounding a cracked pillar sat in one of the offshoot rooms into which I wandered. Among the debris, I spotted a slight discoloration on one of the pieces. Very slight. I retrieved it carefully and now sit alone in my makeshift shelter, away from prying eyes and the other *pack mules* to study my discovery.
+
+It is late, however. I doubt I will glean much before my next day of rest.
+
+#### 14th Libra, 1133th Shadowfall
+
+*Eve*
+
+We have returned to work. I will have to wait to study my discovery.
+
+#### 19th Libra, 1133th Shadowfall
+
+*Eve*
+
+Another death. It seems that we are not the only ones to wander these long buried halls. We have of course a group of guards, provided by **Ilareth Dilynrae** and house **Hune**, but it appears that one of their own was not as vigilant as he should have been. Some insectoid creature I'm told. I didn't see it. I just got to clean up afterwards. It took several buckets.
+
+No progress on my discovery. I take it out at night and inspect it, but I haven't yet been able to apply any real brain power to the study of the thing.
+
+#### 21st Libra, 1133th Shadowfall
+
+*Eve*
+
+Four more deaths. They found the nest of those creatures. They were not fully prepared. Without **Magus Zauviir**... well, I doubt I would be making this entry.
+
+The only shadow in this blasted blinding light is that **Magus Zauviir** is completely spent. We have at least a day - perhaps two - of rest ahead of us. I will spend the time well.
+
+#### 22nd Libra, 1133th Shadowfall
+
+*Dawn*
+
+Today I study this artifact. Perhaps this is my chance to be recorded eternally in the annuls of history.
+
+Addendum: *Noon*
+
+It's been confirmed we have tomorrow as a rest day as well. This is excellent news. I am making some progress with this artifact, and I believe that with another full day, I may solve this puzzle, for that is what I believe this to be: A puzzle box of sorts. There is no key, nor any obvious way of immediately opening it. Were it magical, the senses of our Magus would certainly have picked up on it. Hopefully it is not just a child's toy that I've found here.
+
+Addendum: *Eve*
+
+More progress. There are (at least) nine latches hidden in exceptionally impressive ways across this device. I've determined how to open two of them, and am beginning to understand the mechanism behind a third. My studies today have at least confirmed that this could be no child's toy, unless the children of the long-dead inhabitants of this place were far more intelligent than us.
+
+#### 23rd Libra, 1133th Shadowfall
+
+*Dawn*
+
+And so begins day two...
+
+Addendum: *Noon*
+
+Three further latches. I admit to something of a feeling of unease beginning to interefere with my work. This is incredibly difficult to manipulate, and the latch mechanisms complex to the extreme. I only managed the last latch as I recalled a similar spacial logical puzzle from my days of learning. It was not a puzzle for the uneducated. I hope the contents proove worth this effort.
+
+Addendum: *Eve*
+
+I have seven of nine latches open. This has been an intellectual strain beyond belief. I can wait only until our next day of rest to complete this task.
+
+#### 1st Scorpio, 1133th Shadowfall
+
+*Eve*
+
+The last week has been a blur of sleep and aching muscles. Our expedition has mapped a sizeable section of **Harl'kyorlin**, and we have even discovered a tunnel which could possibly lead to at least one of the other entrances to this labyrinthian ruin. 
