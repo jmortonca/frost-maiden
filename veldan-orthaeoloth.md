@@ -173,4 +173,38 @@ I have seven of nine latches open. This has been an intellectual strain beyond b
 
 *Eve*
 
-The last week has been a blur of sleep and aching muscles. Our expedition has mapped a sizeable section of **Harl'kyorlin**, and we have even discovered a tunnel which could possibly lead to at least one of the other entrances to this labyrinthian ruin. 
+The last week has been a blur of sleep and aching muscles. Our expedition has mapped a sizeable section of **Harl'kyorlin**, and we have even discovered a tunnel which could possibly lead to at least one of the other entrances to this labyrinthian ruin. There have been more insectoid attacks, but they are scattered since the nest was destroyed. No further deaths, though a few recieved minor injuries. I have yet to see one of these creatures alive, a fact which I am most grateful for.
+
+We have been given a day of rest tomorrow due to the sheer quantity of work. I will revisit my... other project then.
+
+#### 2nd Scorpio, 1133th Shadowfall
+
+*Mid-morn*
+
+I slept in. Less time to work, but necessary. Fortunately I feel mostly refreshed if sore. Onwards.
+
+Addendum: *Noon*
+
+8/9. The eighth latch was simple. I have no inkling how to open the ninth. With the eighth opening, I was able to glimpse a tiny piece of one of the insides of the box. I may be erroneous, but it appeared to be made of lead. It is possible there is something magical in here after all. My unease has increased, but fortune favours the bold.
+
+Addendum: *Eve*
+
+I have it. I understand the mechanism behind the ninth latch. Why then have I not opened it? Now that I can, I find myself needing some time to consider the potential ramifications. What if the interior is dangerous? Who can tell what's been sitting all these ages behind the shield of lead? I will wait at least until my next day of rest.
+
+#### 5th Scorpio, 1133th Shadowfall
+
+*Eve*
+
+My body, it seems, has finally given out. Through all of this physical labour, I have not said a single word of complaint, not uttered a moan, or even protested against this treatment. The day has finally come where the past near month of strain has caused a weakness to reveal itself.
+
+I was hauling debris as usual, and overestimated my ability to lift. Don't get me wrong, I got the weight into the air, but two steps and my left knee decided it had had enough. Fortunately the rock didn't land on me as it fell, but the joint fully dislocated.
+
+We have healers of course, and they are more than competent, but regardless, I've been put on rest for the next two days. I pride myself that I did not cry out when the injury occured, yet I am certainly appreciative of a chance to... not lift things.
+
+#### 6th Scorpio, 1133th Shadowfall
+
+*Dawn*
+
+I have made my choice. Today I rest and meditate. Tomorrow, I open the ninth latch.
+
+#### 7th Scorpio, 1133th Shadowfall
