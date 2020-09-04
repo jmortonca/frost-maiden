@@ -208,3 +208,7 @@ We have healers of course, and they are more than competent, but regardless, I'v
 I have made my choice. Today I rest and meditate. Tomorrow, I open the ninth latch.
 
 #### 7th Scorpio, 1133th Shadowfall
+
+*Dawn*
+
+Today I open the artifact. My unease remains, yet I know there is no other option that will satisfy. Onward!
