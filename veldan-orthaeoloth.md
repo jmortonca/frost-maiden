@@ -2,27 +2,19 @@
 
 *Shadow Sacreddarkness*
 
-https://forgottenrealms.fandom.com/wiki/Drow_dictionary
-
-
-
 ## Backstory
-
-Was thinking a Drow who found some forbidden abhorration in the underdark. He spent time as an archeologist, and found a genie bottle. Since the genie couldn't grant his wish to know everything about the creature, it became his patron. I can change some or all of this if you have ideas for joint characters with the accents
-
-So just spit spitballing, what if he found an artifact that pulled an alter ego of himself that exists on another plane or alternate universe. Only to realize that the alter ego isn't so alter lol. Part of the quest can be to search for the other half or fragment of the artifact
 
 ### Glossary
 
 | Term              | Definition                                                   |
 | ----------------- | ------------------------------------------------------------ |
 | Colbautharl       | The underpath, one of the main roads in the underdark frequented by many of its more civilized denizens. |
-| Dilynrae Hune     |                                                              |
+| Dilynrae Hune     | Female Drow Archeologist. One of the heads of expedition for **Malla Akh'noamuth**. |
 | Harl'kyorli       | The name of long buried set of extremely dangerous archeological ruins found in the depths of the Underdark. Infamous for claiming the lives of many of those who choose to explore them. (lit. under waiting) |
 | Ilareth           | A title of respect                                           |
-| Guldor Tuin       |                                                              |
+| Guldor Tuin       | Male Drow Warrior. Second in command to **Dilynrae Hune** on many of her adventures, including the one to **Harl'kyorli**. |
 | Malla Akh'noamuth | A Drow archeoligcal society, famous for several discoveries important to the furthering of the understanding of Drow history. (lit. Honoured group of Wanderers) |
-| Nyloth Zauviir    |                                                              |
+| Nyloth Zauviir    | Male Drow Magus (Wizard). Skilled in the arcane in ways that complement those skills of  **Dilynrae Hune**. Chosen frequently to accompany her on expeditions. |
 | ryld              | slave                                                        |
 
 
@@ -197,7 +189,7 @@ I have it. I understand the mechanism behind the ninth latch. Why then have I no
 
 My body, it seems, has finally given out. Through all of this physical labour, I have not said a single word of complaint, not uttered a moan, or even protested against this treatment. The day has finally come where the past near month of strain has caused a weakness to reveal itself.
 
-I was hauling debris as usual, and overestimated my ability to lift. Don't get me wrong, I got the weight into the air, but two steps and my left knee decided it had had enough. Fortunately the rock didn't land on me as it fell, but the joint fully dislocated.
+I was hauling debris as usual, and overestimated my ability to lift. Don't get me wrong, I got the weight into the air, but two steps and my left knee decided it had had enough. Fortunately the rock didn't land on me as it fell, but the joint fully dislocated``
 
 We have healers of course, and they are more than competent, but regardless, I've been put on rest for the next two days. I pride myself that I did not cry out when the injury occured, yet I am certainly appreciative of a chance to... not lift things.
 
@@ -212,3 +204,33 @@ I have made my choice. Today I rest and meditate. Tomorrow, I open the ninth lat
 *Dawn*
 
 Today I open the artifact. My unease remains, yet I know there is no other option that will satisfy. Onward!
+
+Addendum: *Shortly after Dawn*
+
+I have closed the ninth latch again.
+
+I do not know what it is that I have found. I will describe it here, and what I have gleaned so far.
+
+The ninth latch opened, and the box cracked. It is indeed lined with lead, concealing the contents which are certainly magical. The box contained a small, black crystal shard with green flecks speckled throughout which pulse with a dim light. The shard is smooth on two sides, and jagged on the others, in a vaguely pyramidical shape. Upon touching it, a faint warmth flowed through my finger into my hand. The pulses of green light quickened and appeared to syncronize in timing. Upon lifting the shard, there was a distance, almost unrecognizable tug in my hand; as if the object was pulling me somewhere, deeper into the broken city.
+
+I replaced the object and closed it back in the box, fastening the ninth latch. Now I must consider my next move. Do I turn it in and face the wrath of the higher ups at not immediately revealing it? Perhaps I should pretend to find it, already mostly opened on my next salvage trip.
+
+And yet...
+
+#### 8th Scorpio, 1133th Shadowfall
+
+*Dawn*
+
+I have claimed I need a final day of rest before returning to my toils. This claim was accepted without question due to my previous excellent service. I cannot leave this alone, or to others to handle. Today is the day I seek out and solve the mystery of this artifact securing my place in the annuls of history. 
+
+My dreams were the final piece that convinced me of the need.
+
+I dreamt I was floating. A strange ethereal version of myself. I was floating at the entrance to a huge natural cavern. Pillars had been constructed, exceptionally skilled craftsmanship, covered in the same runes and pictographs that we've been seeing our whole time here. Around and about the edges of the cavern were structures which appeared to be broken down marketplace stalls of a scale that fits with the rest of this wreckage. I floated among them, seeing a plethora of archeological treasures which could help build a better understanding of those who once lived here. They appeared to have been abandoned almost immediately and with great haste. I had no time to linger however as I was drawn to the far end of the cavern. A well constructed scaffolding had been created there over a giant hole in the ground which was apparently some form of construction site. I floated nearer and saw a staircase of a grant scale, carved into the ground. A faint pulsing glow came from the depths, matching that of my artifact. A sudden desire filled me to descend, but as I began to, I was awoken by the morning horns.
+
+This cannot have been a coincidence. The artifact wants *me* and me alone to follow its pull.
+
+Addendum: *Eve*
+
+I barely know where to start. What I enscribe here is in truth madness and I would not believe it myself had I not experienced it myself.
+
+I woke as noted, taking a further day of rest. Once the camp had emptied, I retrieved the artifact from its case, and snuck out of my tent into the maze of tunnels that is **Harl'kyorli**. The tug took me down a previously unexplored path from Prima Mortis, and I followed with extreme caution, keeping a watchful eye out for others. Fortunately,  **Ilareth Dilynrae** had led most down a different path to continue their exploration, and so I found myself alone in the unknown.
