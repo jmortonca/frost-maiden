@@ -253,3 +253,10 @@ I made my way back to the tent in a daze.
 
 Now I sit here, feeling empty, drained. I feel like something was torn from me, ripped out of my soul. I can barely think. I can barely write, but had to get down my thoughts before I forget a single detail. Now I must sleep.
 
+#### 16th Scorpio, 1133th Shadowfall
+
+*Dawn*
+
+I have slept for the last full week. I was apparently unwakable. Magus **Zauviir** came in this morning and told me that some magical malady had taken me, and that I must continue to rest until further notice. They're searching the current tunnels for a source of it. I know what it is though. Whatever that crystal did to me. I cannot reveal that though.
+
+Though I have been asleep for a week, I have not simply lost the time. I dreamed. I dreamed of many things, but it felt more like I was there, experiencing them myself. Before I describe them though, I must note one other important thing. There is a faint, very faint tug that I feel now. It is only when I concentrate hard that I can feel it, but it is there... and it doesn't pull towards the crystal. I can't tell where it pulls me to, but it pulls.
