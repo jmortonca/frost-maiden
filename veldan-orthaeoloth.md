@@ -274,19 +274,11 @@ Though I have been asleep for a week, I have not simply lost the time. I dreamed
 
 *Dawn*
 
-The latest dream was brutal. I was 
-
-
-
-
-
 There is no help for it. I cannot any longer ignore the pull or the dreams. I need more information, and I believe I know where I can get it. It will cost me though. All of my pay from the journey to **Harl'kyorli**  combined with my meager savings has netted me a pair of human **ryld**. They are weak and older it seems, but still capable of work. Work will not be my use for them however.
 
 I overheard a rumor in the halls of **Malla Akh'noamuth**, one that was not meant for my ears. **Elkantar Abaeir**, one of the Keepers of Knowledge, was speaking to a scout who I have never met. The scout spoke of having heard from a contact of a **Dao** who came through from the Elemental Plane of Earth, near a deep underground lake that I happen to know well from my wanderings as a youth. Lake **Dobluth** is the name, a place rarely visted as it is the location of a famous betrayal and the outcasting of the one known as **Lightchild**.
 
 I am taking a leave of absence from my duties at  **Malla Akh'noamuth** in order to find this **Dao** and ask of him a way to... repair me.
-
-
 
 #### 8th Aries, 1134th Shadowfall
 
