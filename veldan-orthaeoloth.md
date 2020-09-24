@@ -6,20 +6,25 @@
 
 ### Glossary
 
-| Term              | Definition                                                   |
-| ----------------- | ------------------------------------------------------------ |
-| Colbautharl       | The underpath, one of the main roads in the underdark frequented by many of its more civilized denizens. |
-| Dilynrae Hune     | Female Drow Archeologist. One of the heads of expedition for **Malla Akh'noamuth**. |
-| Harl'kyorli       | The name of long buried set of extremely dangerous archeological ruins found in the depths of the Underdark. Infamous for claiming the lives of many of those who choose to explore them. (lit. under waiting) |
-| Ilareth           | A title of respect                                           |
-| Guldor Tuin       | Male Drow Warrior. Second in command to **Dilynrae Hune** on many of her adventures, including the one to **Harl'kyorli**. |
-| Malla Akh'noamuth | A Drow archeoligcal society, famous for several discoveries important to the furthering of the understanding of Drow history. (lit. Honoured group of Wanderers) |
-| Nyloth Zauviir    | Male Drow Magus (Wizard). Skilled in the arcane in ways that complement those skills of  **Dilynrae Hune**. Chosen frequently to accompany her on expeditions. |
-| ryld              | slave                                                        |
+| Term               | Definition                                                   |
+| ------------------ | ------------------------------------------------------------ |
+| Colbautharl        | The underpath, one of the main roads in the underdark frequented by many of its more civilized denizens. |
+| Dilynrae Hune      | Female Drow Archeologist. One of the heads of expedition for **Malla Akh'noamuth**. |
+| Dobluth            | Outcast                                                      |
+| Elkantar Abaeir    |                                                              |
+| Harl'kyorli        | The name of long buried set of extremely dangerous archeological ruins found in the depths of the Underdark. Infamous for claiming the lives of many of those who choose to explore them. (lit. under waiting) |
+| Ilareth            | A title of respect                                           |
+| Guldor Tuin        | Male Drow Warrior. Second in command to **Dilynrae Hune** on many of her adventures, including the one to **Harl'kyorli**. |
+| Lake Dobluth       | The location of the betrayal by Lightchild, and where he was banished to the surface. (lit. Lake Outcast) |
+| Lightchild         | A Drow once outcast, banished to the surface due to his betrayal of Lloth. |
+| Malla Akh'noamuth  | A Drow archeoligcal society, famous for several discoveries important to the furthering of the understanding of Drow history. (lit. Honoured group of Wanderers) |
+| Nyloth Zauviir     | Male Drow Magus (Wizard). Skilled in the arcane in ways that complement those skills of  **Dilynrae Hune**. Chosen frequently to accompany her on expeditions. |
+| ryld               | slave                                                        |
+| Valsharess'Kyorlin | lit. Queen's Guard                                           |
 
 
 
-### Journal
+### Journal: Harl'kyorli
 
 #### 12th Virgo, 1133th Shadowfall
 
@@ -260,3 +265,82 @@ Now I sit here, feeling empty, drained. I feel like something was torn from me, 
 I have slept for the last full week. I was apparently unwakable. Magus **Zauviir** came in this morning and told me that some magical malady had taken me, and that I must continue to rest until further notice. They're searching the current tunnels for a source of it. I know what it is though. Whatever that crystal did to me. I cannot reveal that though.
 
 Though I have been asleep for a week, I have not simply lost the time. I dreamed. I dreamed of many things, but it felt more like I was there, experiencing them myself. Before I describe them though, I must note one other important thing. There is a faint, very faint tug that I feel now. It is only when I concentrate hard that I can feel it, but it is there... and it doesn't pull towards the crystal. I can't tell where it pulls me to, but it pulls.
+
+
+
+### Journal: Genie
+
+#### 6th Aries, 1134th Shadowfall
+
+*Dawn*
+
+The latest dream was brutal. I was 
+
+
+
+
+
+There is no help for it. I cannot any longer ignore the pull or the dreams. I need more information, and I believe I know where I can get it. It will cost me though. All of my pay from the journey to **Harl'kyorli**  combined with my meager savings has netted me a pair of human **ryld**. They are weak and older it seems, but still capable of work. Work will not be my use for them however.
+
+I overheard a rumor in the halls of **Malla Akh'noamuth**, one that was not meant for my ears. **Elkantar Abaeir**, one of the Keepers of Knowledge, was speaking to a scout who I have never met. The scout spoke of having heard from a contact of a **Dao** who came through from the Elemental Plane of Earth, near a deep underground lake that I happen to know well from my wanderings as a youth. Lake **Dobluth** is the name, a place rarely visted as it is the location of a famous betrayal and the outcasting of the one known as **Lightchild**.
+
+I am taking a leave of absence from my duties at  **Malla Akh'noamuth** in order to find this **Dao** and ask of him a way to... repair me.
+
+
+
+#### 8th Aries, 1134th Shadowfall
+
+*Noon*
+
+The journey so far has been uneventful. I have treated the **ryld** well, and they are appreciative. Of course, they believe we are going to visit my childhood home. The road is not difficult, and the few **Valsharess'Kyorlin** I have met let me continue with very little questioning. The mark of **Malla Akh'noamuth** holds some sway on these roads.
+
+#### 12th Aries, 1134th Shadowfall
+
+*Eve*
+
+Tomorrow we reach Lake **Dobluth**, or at least the road to it. It is perhaps a day's travel to the shore, and then another half day or so around to where the **Dao** is rumored to be.
+
+#### 15th Aries, 1134th Shadowfall
+
+*Eve*
+
+My life is irrevocably altered.
+
+I sit alone on the banks of Lake **Dobluth**, as the outskirts of a small wood that holds many memories of childhood exploration and imaginative play. I was a master explorer here; discovering ancient civilizations and their treasures, making up stories of their lives based on a rock that looked like a pot or arrowhead. It is, perhaps, appropriate then that this next phase of my life begins.
+
+I met the **Dao**. 
+
+Such a creature I have never seen. I've done my research of course on them, which is perhaps why I live to describe the encounter. I found it taking rest in a cave system near the lake. The crossing from the Element Plane of Earth was perhaps taxing on it, I cannot say. I approached, calling out to it that I wished a parlay, having brought slaves for trade, and showing the utmost respect. That at least got me into its presense alive. I complemented it on its fine jewels and adornments, crying that I had never seen such wonders before. I begged it to listen to my meager request. It was apeased by my manner and complements. It looked over the slaves I had brought, and fortunately deemed them worthy of at least listening to my trade request.
+
+I told my tale of the crystal, of the lightning, the split, and the drained self afterwards. I described my dreams, the sights and deeds I have seen and done while lost to the waking world. I made sure to inform it of where this ruin was and that there were certainly treasures unfound there. This information, as I hoped it would, added greatly to the value of my side of the bargan I seeked to make. The creature, bound by some code of conduct which I cannot fathom, seemed to consider that accepting this information and the slaves put an onus on it to reciprocate. So I asked it simply to make me whole once more.
+
+The **Dao**, it seems, had limited power, and certainly not enough to grant my request. It did, however, agree that my request was a reasonable one in trade. This led to the change I spoke of in my life, and in who I am. I admit, that even with my research and forethought, I could not see next what was coming.
+
+The **Dao** laid a huge rock-hard hand on my head (perhaps it is better to say *engulfed* my head with its hand), and I felt a surge of power. 
+
+How to describe it?
+
+It felt like I was struck inside by a controlled rockslide. Everything went bright white for a moment. My insides churned, I must have cried out as the creature laughed a laugh like gravel sliding down a hill. I felt my mind open to possibilities I had never dreamed of in my wildest ambitions.
+
+Then it removed its hand and moved away, its lower body a swirl of sand as it settled back down. Its words coming slow, and hard.
+
+*I have granted you the potential to fullfill your request. This is our bargin. We are now linked eternally. Depart, mortal.*
+
+I staggered out of the cave half blind. There were screams. Whether they were mine or those of the **ryld** I left with the creature, I cannot say. Perhaps both. My legs took me here unbidden, and I slept. It was at least a day that I knew nothing, not even dreams. Now I am awake, and I am... *different*.
+
+I can feel the power within me. I can shape it through sheer force of will. I can feel there is more there to unlock as I study, and use this power, more will come. I *know* this somehow.
+
+There is one thing more. An anchor to the power within. A small lantern. I cannot remember how I got it, but it sits next to me, and I can feel the connection between my power and this small object.
+
+Understanding dawns as I sit and consider these events. As the **Dao** could not directly grant my request, it has, in a manner, enslaved me while still fulfilling its portion of the bargin. This power though... there is certainly hope now of success. I will rest, then begin my quest to become whole once again.
+
+
+
+
+
+
+
+
+
+### Journal: Frost Maiden
+
